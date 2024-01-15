@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/Desktop/start.html"
+		},
+		{
+			"path": "../../4.0+File+Paths/4.0 File Paths"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "4.1+Webpages"
+	}
+}
